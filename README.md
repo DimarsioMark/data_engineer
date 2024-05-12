@@ -1,2 +1,2 @@
-# data_enginiring
+# data_enginууring
 скрипты
